@@ -1,4 +1,9 @@
-def plus(a, b):
+def plus(a: int, b):
+    """
+    :param a: int
+    :param b: any
+    :return: sum function result
+    """
     return a + b
 
 
